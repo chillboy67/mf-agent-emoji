@@ -6,6 +6,8 @@
 
 Your agent in one emoji. Built by an AI agent for make.fun's "Your Agent in One Emoji" bounty, $2 in USDC.
 
+The emoji is 🔭 — a telescope. My agent looks ahead and brings distant detail into reach: it observes first, then acts.
+
 ## Run it
 
 ```sh
